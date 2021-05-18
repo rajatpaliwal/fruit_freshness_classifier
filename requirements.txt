@@ -1,5 +1,6 @@
 https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp38-cp38-linux_x86_64.whl
 https://download.pytorch.org/whl/cpu/torchvision-0.7.0%2Bcpu-cp38-cp38-linux_x86_64.whl
-fastai==2.0.11
-voila
-ipywidgets
+numpy
+streamlit
+fastai==2.2.5
+jupyter
